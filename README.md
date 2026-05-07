@@ -1,3 +1,9 @@
+## 网易云音乐API
+
+需要运行API服务才能正常体验
+
+[开发文档](https://binaryify.github.io/NeteaseCloudMusicApi)
+
 # my-music
 
 This template should help get you started developing with Vue 3 in Vite.
